@@ -3,7 +3,9 @@
  <head> 
  <title>Cafe Menu</title>
   <meta charset="utf-8"
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
  </head>
+  <div id="menu">
   <body>
   <main>
    <h1>CAMPER CAFE</h1> 
@@ -12,5 +14,6 @@
 	  <h2>Coffee</h2>	 
 	 </section>
   </main>  
+  </div>
   </body>
  </html>
