@@ -1,19 +1,20 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html lang="en">
- <head> 
- <title>Cafe Menu</title>
-  <meta charset="utf-8"
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
- </head>
-  <div id="menu">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cafe Menu</title>
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/Alfie-North/Practice-01/main/Style.csss"</link>
+  </head>
   <body>
-  <main>
-   <h1>CAMPER CAFE</h1> 
-    <p>Est. 2020</p> 
-	 <section>
-	  <h2>Coffee</h2>	 
-	 </section>
-  </main>  
-  </div>
+    <div id="menu">
+      <main>
+        <h1>CAMPER CAFE</h1>
+        <p>Est. 2020</p>
+        <section>
+          <h2>Coffee</h2>
+        </section>
+      </main>
+    </div>
   </body>
- </html>
+</html>
